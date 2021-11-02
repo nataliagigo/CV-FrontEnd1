@@ -1,0 +1,149 @@
+#caja1{
+    background-color: white;
+    height: 100px;
+    width:100px;
+    top: 100px;
+}
+
+.list{
+    text-align: left;
+    display: inline;
+    font-size: 20px;
+}
+
+.interlineado{
+    position: absolute;
+    line-height: 25px;
+    height: 100px;
+    top: 400px;
+    font-size: 20px;
+}
+
+.sub1{
+    position: absolute;
+    width: 1440px;
+    top: 350px;
+    background: #C4C4C4;
+    height: 30px;
+    color:#005677;
+    left: 12.45px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 100%;
+    font-feature-settings: 'cpsp' on;
+}
+
+.sub2{
+    position: absolute;
+    width: 1440px;
+    top: 500px;
+    background: #C4C4C4;
+    height: 30px;
+    color:#005677;
+    left: 12.45px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 100%;
+    font-feature-settings: 'cpsp' on;
+}
+
+.sub3{
+    position: absolute;
+    width: 1440px;
+    top: 765px;
+    background: #C4C4C4;
+    height: 30px;
+    color:#005677;
+    left: 12.45px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 100%;
+    font-feature-settings: 'cpsp' on;
+}
+
+.imagen{
+    position: absolute;
+    width: 150px;
+    height: 146.37px;
+    left: 720px;
+    top: 20.91px;
+    align-items: center;
+    background: #a31717;
+}
+
+.titulo{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    background: #C4C4C4;
+    top: 150px;
+    color:#005677;
+    text-align: center;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 150%;
+font-feature-settings: 'cpsp' on;
+}
+
+.list2{
+    position: absolute;
+    width: 1440px;
+    top: 550px;
+    font-size: 20px;
+}
+.list3{
+    position: absolute;
+    width: 1440px;
+    top: 810px;
+    font-size: 20px;
+}
+
+p{
+    position: absolute;
+    width: 1440px;
+    top: 950px;
+    background: #005677;
+    color:white;
+    height: 35px;
+    text-align: center;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 150%;
+font-feature-settings: 'cpsp' on;
+}
+
+.link{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 900px;
+    top: 985px;
+    background: #005677;
+}
+.insta{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 850px;
+    top: 985px;
+    background: #005677;
+}
+
+span{
+    font-family: Times New Roman;
+    font-style: italic;
+    font-weight: bold;
+    color: #000000;
+    width: 199px;
+    }
+
