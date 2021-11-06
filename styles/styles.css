@@ -1,14 +1,9 @@
 #caja1{
+    background-size: cover;
     background-color: white;
     height: 100px;
     width:100px;
     top: 100px;
-}
-
-.list{
-    text-align: left;
-    display: inline;
-    font-size: 20px;
 }
 
 .interlineado{
@@ -27,7 +22,8 @@
     height: 30px;
     color:#005677;
     left: 12.45px;
-    font-family: Times New Roman;
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -43,7 +39,8 @@
     height: 30px;
     color:#005677;
     left: 12.45px;
-    font-family: Times New Roman;
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -59,7 +56,8 @@
     height: 30px;
     color:#005677;
     left: 12.45px;
-    font-family: Times New Roman;
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -71,10 +69,8 @@
     position: absolute;
     width: 150px;
     height: 146.37px;
-    left: 720px;
     top: 20.91px;
     align-items: center;
-    background: #a31717;
 }
 
 .titulo{
@@ -85,12 +81,12 @@
     top: 150px;
     color:#005677;
     text-align: center;
-    font-family: Times New Roman;
     font-style: normal;
     font-weight: bold;
     font-size: 35px;
     line-height: 150%;
-font-feature-settings: 'cpsp' on;
+    font-feature-settings: 'cpsp' on;
+    font-family: 'Mochiy Pop One', sans-serif;
 }
 
 .list2{
@@ -106,15 +102,16 @@ font-feature-settings: 'cpsp' on;
     font-size: 20px;
 }
 
-p{
+.foot{
     position: absolute;
     width: 1440px;
     top: 950px;
     background: #005677;
     color:white;
     height: 35px;
+    left: -200px;
     text-align: center;
-    font-family: Times New Roman;
+    font-family: 'Mochiy Pop One', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 27px;
@@ -126,17 +123,25 @@ font-feature-settings: 'cpsp' on;
     position: absolute;
     width: 20px;
     height: 20px;
-    left: 900px;
+    left: 800px;
     top: 985px;
     background: #005677;
+    color:white;
+    font-size: 27px;
+    line-height: 150%;
+font-feature-settings: 'cpsp' on;
 }
 .insta{
     position: absolute;
     width: 20px;
     height: 20px;
-    left: 850px;
+    left: 750px;
     top: 985px;
     background: #005677;
+    color:white;
+    font-size: 27px;
+    line-height: 150%;
+font-feature-settings: 'cpsp' on;
 }
 
 span{
@@ -147,3 +152,75 @@ span{
     width: 199px;
     }
 
+header{
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url(../resources/descarga\ \(1\).jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.git{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 850px;
+    top: 985px;
+    background: #005677;
+    color:white;
+    font-size: 27px;
+    line-height: 150%;
+font-feature-settings: 'cpsp' on;
+}
+
+.sobremi{
+    position: absolute;
+    width: 50px;
+    height: 45px;
+    left: 950px;
+    top: 978px;
+    background: #005677;
+    color:white;
+    font-size: 15px;
+    line-height: 90%;
+font-feature-settings: 'cpsp' on;
+}
+
+.descripcion{
+    position: absolute;
+    line-height: 25px;
+    height: 100px;
+    top: 300px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.descripcion2{
+    position: absolute;
+    line-height: 25px;
+    height: 100px;
+    top: 400px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.fondo{
+    background-color: rgb(117, 221, 178);
+}
+.boton{
+    position: absolute;
+    width: 1500px;
+    height: 60px;
+    background-color:  #C4C4C4;
+    background-position: center;
+    top: 500px;
+    color:#005677;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 200%;
+    font-feature-settings: 'cpsp' on;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
